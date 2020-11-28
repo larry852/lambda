@@ -1,0 +1,6 @@
+{
+  "headers": {"Authorization": "b9011eb2-dbb5-48f2-99eb-4fb94bc31079"},
+  "body": "{\"app\": \"90f4e78d-b405-4013-a7bf-ff944da01f64\", \"email\": \"larryportocarrero@gmail.com\", \"reason\": \"spam\"}",
+  "identity": {"sourceIP": "127.0.0.1"},
+  "httpMethod": "POST"
+}

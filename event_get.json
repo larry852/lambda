@@ -1,0 +1,6 @@
+{
+  "headers": {"Authorization": "b9011eb2-dbb5-48f2-99eb-4fb94bc31079"},
+  "body": "{\"email\": \"larryportocarrero@gmail.com\"}",
+  "identity": {"sourceIP": "127.0.0.1"},
+  "httpMethod": "GET"
+}
